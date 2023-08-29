@@ -20,11 +20,11 @@
 ![](images/task-3.2.png)
 
 - Выводим названия сетевых интерфейсов \
-![](images/task-3.3.png)
+![](images/task-3.3.png) \
 lo (loopback device) – виртуальный интерфейс, присутствующий по умолчанию в любом Linux. С этим интерфейсом всегда связан адрес 127.0.0.1. У него есть dns-имя – localhost 
 
 - Получение ip адреса данного устройства от DHCP сервера \
-![](images/task-3.4.png) 
+![](images/task-3.4.png) \
 Протокол DHCP (Dynamic Host Configuration Protocol - протокол динамической настройки узла) 
 
 - Выводим внешний IP-адрес \
@@ -33,16 +33,15 @@ lo (loopback device) – виртуальный интерфейс, присут
 - Выводим внутренний IP-адрес шлюза \
 ![](images/task-3.6.png)
 
-- Задаём статичные настройки ip, gw, dns в файле `/etc/netplan/00-installer-config.yaml` \
-![](images/task-3.7.jpg) 
+- Задаём статичные настройки ip, gw, dns в файле ``/etc/netplan/00-installer-config.yaml`` \
+![](images/task-3.7.png)
 
 - потвержаем изменения и перезагружаем виртуальную машину \
-![](images/task-3.8.jpg) 
+![](images/task-3.8.png)
 
 - Проверяем адреса \
-![](images/task-3.9.jpg) 
+![](images/task-3.9.png)
 
 - Пропингуем удаленные хосты 1.1.1.1 и ya.ru с помощью команды \
-![](images/task-3.10.jpg) 
-
+![](images/task-3.10.png)
 
