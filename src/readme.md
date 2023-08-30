@@ -78,20 +78,26 @@
 ![](images/task-7.3.png)
 
 - Внесение изменений в файл, выход без сохранения 
-#### **vim**
-![](images/task-7.4.png)
-#### **nano**
-![](images/task-7.5.png)
-#### **joe**
+
+**vim** (ESC -> :q!)
+![](images/task-7.4.png) \
+
+**nano** (^x -> n)
+![](images/task-7.5.png) \
+
+**joe** (^c -> y)
 ![](images/task-7.6.png)
 
 - Поиск, замена
-#### **vim**
+
+**vim** (/что ищем, :s/что заменить/чем)
 ![](images/task-7.7.png) \
-![](images/task-7.8.png)
-#### **nano**
+![](images/task-7.8.png) \
+
+**nano** (^w -> что ищем, ^\ -> что заменить -> чем -> y)
 ![](images/task-7.9.png) \
-![](images/task-7.10.png)
-#### **joe**
+![](images/task-7.10.png) \
+
+**joe** (^k f -> что ищем -> i, ^k f -> что заменить -> r -> чем -> y)
 ![](images/task-7.11.png) \
 ![](images/task-7.12.png) 
