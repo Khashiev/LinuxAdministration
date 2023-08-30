@@ -137,3 +137,34 @@
 **State** - *Состояние сокета* \
 **0.0.0.0** - *немаршрутизируемый адрес IPv4 (по умолчанию)* 
 
+## Part 9. Установка и использование утилит top, htop
+
+- Uptime: 5 min
+- 1 user
+- Load average: 0.01, 0.06, 0.04
+- Tasks: 94 total
+- %Cpu(s): 1.7 us, 1.3 sy, 0.0 ni, 96.3 id, 0.3 wa, 0.0 hi, 0.0 si, 0.0 st
+- MiB Mem: 1971.4 total, 1073.6 free, 159.1 used, 728.7 buff/cache
+- PID 1077
+- PID 1077
+
+- htop сортировка по PID \
+![](images/task-9.1.png) 
+
+- htop сортировка по PERCENT_CPU \
+![](images/task-9.2.png) 
+
+- htop сортировка по PERCENT_MEM \
+![](images/task-9.3.png) 
+
+- htop сортировка по TIME \
+![](images/task-9.4.png) 
+
+- htop фильтр по процессу sshd \
+![](images/task-9.5.png) 
+
+- htop поиск процесса syslog \
+![](images/task-9.6.png) 
+
+- htop с добавленным выводом hostname, clock и uptime \
+![](images/task-9.7.png) 
