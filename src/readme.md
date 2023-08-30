@@ -85,7 +85,7 @@
 **nano** (^x -> n) \
 ![](images/task-7.5.png) \
 
-**joe** (^c -> y)
+**joe** (^c -> y) \
 ![](images/task-7.6.png)
 
 - Поиск, замена
