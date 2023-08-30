@@ -177,9 +177,9 @@
 
 ## Part 11. Использование утилиты df
 
-``df (KB)`` \
+- ``df (KB)`` \
 ![](images/task-11.1.png) \
 
-``df -Th (ext4)`` \
+- ``df -Th (ext4)`` \
 ![](images/task-11.2.png) 
 
