@@ -175,3 +175,11 @@
 - Disk /dev/sda, size: 10 GiB, sectors: 20971520, swap: 1517564 \
 ![](images/task-10.1.png) 
 
+## Part 11. Использование утилиты df
+
+``df (KB)`` \
+![](images/task-11.1.png) \
+
+``df -Th (ext4)`` \
+![](images/task-11.2.png) 
+
