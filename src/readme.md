@@ -67,8 +67,9 @@
 ## Part 7. Установка и использование текстовых редакторов 
 
 - Создание файла, выход с сохранением \
+
 **vim** (ESC -> :wq filename) \
-![](images/task-7.1.png)
+![](images/task-7.1.png) \
 **nano** (^o -> filename -> ^x) \
 ![](images/task-7.2.png) \
 **joe** (^kx -> filename)\
