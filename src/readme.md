@@ -74,7 +74,7 @@
 **nano** (^o -> filename -> ^x) \
 ![](images/task-7.2.png) \
 
-**joe** (^kx -> filename)\
+**joe** (^kx -> filename) \
 ![](images/task-7.3.png)
 
 - Внесение изменений в файл, выход без сохранения 
@@ -82,7 +82,7 @@
 **vim** (ESC -> :q!)
 ![](images/task-7.4.png) \
 
-**nano** (^x -> n)
+**nano** (^x -> n) \
 ![](images/task-7.5.png) \
 
 **joe** (^c -> y)
