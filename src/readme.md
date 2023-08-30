@@ -63,3 +63,32 @@
 
 - Вывод команды с корректным временем \
 ![](images/task-6.1.png)
+
+## Part 7. Установка и использование текстовых редакторов 
+
+- Создание файла, выход с сохранением \
+#### **vim**
+![](images/task-7.1.png)
+#### **nano**
+![](images/task-7.2.png)
+#### **joe**
+![](images/task-7.3.png)
+
+- Внесение изменений в файл, выход без сохранения \
+#### **vim**
+![](images/task-7.4.png)
+#### **nano**
+![](images/task-7.5.png)
+#### **joe**
+![](images/task-7.6.png)
+
+- Поиск, замена
+#### **vim**
+![](images/task-7.7.png) \
+![](images/task-7.8.png)
+#### **nano**
+![](images/task-7.9.png) \
+![](images/task-7.10.png)
+#### **joe**
+![](images/task-7.11.png) \
+![](images/task-7.12.png) 
