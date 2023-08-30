@@ -168,3 +168,10 @@
 
 - htop с добавленным выводом hostname, clock и uptime \
 ![](images/task-9.7.png) 
+
+
+## Part 10. Использование утилиты fdisk
+
+- Disk /dev/sda, size: 10 GiB, sectors: 20971520, swap: 1517564 \
+![](images/task-10.1.png) 
+
