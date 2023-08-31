@@ -190,3 +190,10 @@
 
 - Выводим размер всего содержимого в /var/log \
 ![](images/task-12.2.png) 
+
+## Part 13. Установка и использование утилиты ncdu
+
+- Выводим размер папок /home, /var, /var/log \
+![](images/task-13.1.png) \
+![](images/task-13.2.png) \
+![](images/task-13.3.png) \
